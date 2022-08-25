@@ -1,8 +1,20 @@
-### Hi there 👋
+# Hi there 👋 <br> I'm NewDawn0
+
+# Languages and tools <!-- Badges -->
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+
+# Other languages I decently know
+
+
+
+# Projects
++ Currently working on (Py-Drop)[TODO add link] -- A crossplatform airdrop app written in python.
++ I am maintaining my (configs)[Todo add link] -- A collection of configurations for various tool you might run.
++ About to Start
 
 <!--
 **NewDawn0/NewDawn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

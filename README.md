@@ -1,7 +1,8 @@
 # Hi there 👋 <br> I'm NewDawn0
 
 # Languages and tools <!-- Badges -->
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 
 
 # Other languages I decently know

@@ -1,12 +1,4 @@
 # Hi there 👋 <br> I'm NewDawn0 --
-<style>
-img {
-  border-radius: 25px;
-}
-.Stats {
-  border-radius: 0px;
-}
-</style>
 ## Languages and Tools
 <div>
 <img alt="Python" src="https://img.shields.io/badge/python-ffd342?style=for-the-badge&logo=Python&logoColor=blue" />

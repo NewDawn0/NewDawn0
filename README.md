@@ -44,7 +44,7 @@
 
 ## Social Stuff ...
 <div>
-<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" onclick="window.open('https://discordapp.com/users/820033152827129926/')" style="border-radius: 25px" /> NewDawn0#9856
+<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" onclick="window.open('https://discordapp.com/users/820033152827129926/')" style="border-radius: 25px" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NewDawn0#9856
 <!--
 <img alt="GMail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor" onclick="window.open('')" />
 </div>

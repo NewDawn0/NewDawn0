@@ -45,6 +45,7 @@
 ## Social Stuff ...
 <div>
   <a href="https://discordapp.com/users/820033152827129926/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  alt="discord"/></a>
+  <img src="https://img.shields.io/github/followers/NewDawn0?label=follow&style=social"  alt="GitHub"/>
 </div>
 <!--
 <img alt="GMail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor" onclick="window.open('')" />
@@ -56,7 +57,21 @@
 ## Stats
 <img class="Stats" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=NewDawn0&theme=blue-green" />
 
-<img src="https://cdn-icons-png.flaticon.com/512/2577/2577443.png" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+```c
+#include <string>
+struct NewDawn0 {
+  int age = 17;
+  std::string Name = "NewDawn0 (Tom)";
+  std::string Languages[8] = {
+      "C","C++","Python","Bash","Java","CSS","Javascript","Lua"
+  };
+  std::string Editor = "NvChad NeoVim";
+  std::string OS[2] = {"MacOS, ArchLinux"};
+  std::string Learning = "Experimenting with Crystal, Haskell and improving my c and c++";
+  
+}
+```
+<img src="https://cdn-icons-png.flaticon.com/512/2577/2577443.png" width="60"> <em><b>I love meeting new peopel</b> so if you want to <b> say hi</b> I'll be <b>happy to meet you</b></em>
 </br>
 </br>
 </br>

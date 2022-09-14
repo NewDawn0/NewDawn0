@@ -34,6 +34,21 @@
 <img alt="Raspberry PI" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" style="border-radius: 25px" />
 </div>
 
+## About Me
+```c
+#include <string>
+struct NewDawn0 {
+  int age = 17;
+  std::string Name = "NewDawn0 (Tom)";
+  std::string Languages[8] = {
+      "C","C++","Python","Bash","Java","CSS","Javascript","Lua"
+  };
+  std::string Editor = "NvChad NeoVim";
+  std::string OS[2] = {"MacOS, ArchLinux"};
+  std::string Learning = "Experimenting with Crystal, Haskell and improving my c and c++";
+}
+```
+
 ## I’m currently working on ...
 - Currently working on (Py-Drop)[TODO add link] -- A crossplatform airdrop app written in python.
 - I am maintaining my (configs)[Todo add link] -- A collection of configs enriching the tools I use.
@@ -57,20 +72,6 @@
 ## Stats
 <img class="Stats" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=NewDawn0&theme=blue-green" />
 
-```c
-#include <string>
-struct NewDawn0 {
-  int age = 17;
-  std::string Name = "NewDawn0 (Tom)";
-  std::string Languages[8] = {
-      "C","C++","Python","Bash","Java","CSS","Javascript","Lua"
-  };
-  std::string Editor = "NvChad NeoVim";
-  std::string OS[2] = {"MacOS, ArchLinux"};
-  std::string Learning = "Experimenting with Crystal, Haskell and improving my c and c++";
-  
-}
-```
 <img src="https://cdn-icons-png.flaticon.com/512/2577/2577443.png" width="60"> <em><b>I love meeting new peopel</b> so if you want to <b> say hi</b> I'll be <b>happy to meet you</b></em>
 </br>
 </br>

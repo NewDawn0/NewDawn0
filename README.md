@@ -47,7 +47,7 @@ struct NewDawn0 {
   };
   std::string Editor = "NvChad NeoVim";
   std::string OS[2] = {"MacOS, ArchLinux"};
-  std::string Learning = "Experimenting with Crystal, Haskell and improving my c and c++";
+  std::string Learning = "Experimenting with Crystal, Haskell and improving my C and C++";
 }
 ```
 ---

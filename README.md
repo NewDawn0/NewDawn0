@@ -34,6 +34,8 @@
 <img alt="Raspberry PI" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" style="border-radius: 25px" />
 </div>
 
+---
+
 ## About Me
 ```c
 #include <string>
@@ -48,6 +50,7 @@ struct NewDawn0 {
   std::string Learning = "Experimenting with Crystal, Haskell and improving my c and c++";
 }
 ```
+---
 
 ## I’m currently working on ...
 - Currently working on (Py-Drop)[TODO add link] -- A crossplatform airdrop app written in python.

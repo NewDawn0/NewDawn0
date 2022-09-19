@@ -37,19 +37,6 @@
 ---
 
 ## About Me
-```c
-#include <string>
-struct NewDawn0 {
-  int age = 17;
-  std::string Name = "NewDawn0 (Tom)";
-  std::string Languages[8] = {
-      "C","C++","Python","Bash","Java","CSS","Javascript","Lua"
-  };
-  std::string Editor = "NvChad NeoVim";
-  std::string OS[2] = {"MacOS, ArchLinux"};
-  std::string Learning = "Experimenting with Crystal, Haskell and improving my C and C++";
-}
-```
 ---
 
 ## I’m currently working on ...

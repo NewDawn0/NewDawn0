@@ -62,7 +62,7 @@
 ## Stats
 <img class="Stats" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=NewDawn0&show_icons=true&theme=tokyonight" />
 
-<img src="https://cdn-icons-png.flaticon.com/512/2577/2577443.png" width="60"> <em><b>I love meeting new peopel</b> so if you want to <b> say hi</b> I'll be <b>happy to meet you</b></em>
+<img src="https://cdn-icons-png.flaticon.com/512/2577/2577443.png" width="60"> <em><b>I love meeting new People</b> so if you want to <b> say hi</b> I'll be <b>happy to meet you</b></em>
 </br>
 </br>
 </br>

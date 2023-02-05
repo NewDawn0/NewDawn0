@@ -4,6 +4,7 @@
 <img alt="Python" src="https://img.shields.io/badge/python-ffd342?style=for-the-badge&logo=Python&logoColor=blue" style="border-radius: 25px" />
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-ffd342?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 25px" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-f7c156?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 25px" />
+<img alt="Rust" src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=black" style="border-radius: 25px" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 25px" />
 <img alt="Alacritty" src="https://img.shields.io/badge/alacritty-orange?style=for-the-badge&logo=alacritty&logoColor=white" style="border-radius: 25px" />
 <img alt="git" src="https://img.shields.io/badge/Git-f05033?&style=for-the-badge&logo=git&logoColor=white" style="border-radius: 25px" />
@@ -11,7 +12,6 @@
 <img alt="Raspberry PI" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" style="border-radius: 25px" />
 <img alt="Starship" src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" style="border-radius: 25px" />
 <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="border-radius: 25px" />
-<img alt="Rust" src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=black" style="border-radius: 25px" />
 <img alt="Lua" src="https://img.shields.io/badge/lua-000081?style=for-the-badge&logo=lua&logoColor=white" style="border-radius: 25px" />
 <img alt="C" src="https://img.shields.io/badge/C-003991?&logo=C&style=for-the-badge" style="border-radius: 25px" />
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?&logo=c%2b%2b&style=for-the-badge" style="border-radius: 25px" />

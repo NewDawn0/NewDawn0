@@ -60,16 +60,43 @@ So there you have it! I'm a young, ambitious coder with a passion for technology
 
 ## Github stats
 <div style="display:flex; allign-items:center">
-<img src="https://github-readme-stats.vercel.app/api?username=NewDawn0&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="display:inline-block; width: 50%; height: 18vh">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewDawn0&hide_border=true&layout=compact&theme=tokyonight" align="right" style="display:inline-block; width: 50%; height: 18vh;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NewDawn0&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="display:inline-block; width: 50%; height: 18vh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewDawn0&hide_border=true&layout=compact&theme=tokyonight" align="right" style="display:inline-block; width: 50%; height: 18vh;" />
 </div>
 
+
 ## Miscelaneous Infos
-My workstations
+<details>
+<summary>My workstations 💻</summary>
 
-**Now playing**</br>
-Stay tuned to the music vibes I'm currently grooving to
+```bash
+OS: macOs # It's an alright os
+WM: yabai # When you want a tiling wm on macOs
+Terminal: iTerm2 # Glad I switched from the Termial.app
+Editor: Doom emacs # The best
+Shell: zsh # 10/10
+Storage: 1Tb # Way too much
+CPU: Intel i7 # I prefer AMD but it's still alright 
+GPU: Intel Iris Plus
+```
+```bash
+OS: Arch Linux # Absolutely superb
+WM: hyprland # Enjoing animations on wayland 
+Terminal: Alacritty # Enjoing the GPU accelation 
+Editor: Neovim # Its elite
+Shell: zsh # No. 1 Shell
+Storage: 4.7 Tb # Definitely don't need that much space
+CPU: AMD Ryzen 5900
+GPU: GeForce RTX 3600
 
+```
+</details>
+
+<details>
+<summary>Interrested in the music I groove to?</summary>
+Stay tuned to the music vibes I'm currently grooving to</br>
 <img alt="spotify-github-profile" onClick="window.location.reload()" src="https://spotify-github-profile.vercel.app/api/view?uid=tosu-ch&cover_image=true&theme=default&show_offline=false&background_color=121212"></img>
+</details>
 
-</td></tr></table>  
+
+<img alt="Visitor Count" src="https://profile-counter.glitch.me/NewDawn0/count.svg" style="display:block; margin-left: auto; margin-right: auto;">

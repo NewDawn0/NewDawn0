@@ -59,10 +59,8 @@ So there you have it! I'm a young, ambitious coder with a passion for technology
 </div>
 
 ## Github stats
-<div style="display:flex; allign-items:center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NewDawn0&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="display:inline-block; width: 50%; height: 18vh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewDawn0&hide_border=true&layout=compact&theme=tokyonight" align="right" style="display:inline-block; width: 50%; height: 18vh;" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=NewDawn0&show_icons=true&count_private=true&hide_border=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewDawn0&hide_border=true&layout=compact&theme=tokyonight">
 
 
 ## Miscelaneous Infos
@@ -99,4 +97,4 @@ Stay tuned to the music vibes I'm currently grooving to</br>
 </details>
 
 
-<img alt="Visitor Count" src="https://profile-counter.glitch.me/NewDawn0/count.svg" style="display:block; margin-left: auto; margin-right: auto;">
+<img alt="Visitor Count" src="https://profile-counter.glitch.me/NewDawn0/count.svg">

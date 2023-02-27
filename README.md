@@ -79,7 +79,7 @@ GPU: Intel Iris Plus
 ```
 ```bash
 OS: Arch Linux # Absolutely superb
-WM: hyprland # Enjoing animations on wayland 
+WM: chadwm # beatified dwm
 Terminal: Alacritty # Enjoing the GPU accelation 
 Editor: Neovim # Its elite
 Shell: zsh # No. 1 Shell

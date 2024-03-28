@@ -1,100 +1,98 @@
-<div style="display:flex; allign-items:center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&duration=1000&width=600&height=100&lines=%3C%F0%9F%91%8B+Hello%2C+World%3E;Glad+to+see+you+here;I'm+NewDawn0+also+know+as+Tom" alt="Typing SVG" style="display:inline-block"/></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&duration=1000&width=600&height=100&lines=%3C%F0%9F%91%8B+Hello%2C+World%3E;Glad+to+see+you+here;I'm+NewDawn0+also+known+as+Tom" alt="Typing SVG" style="display:inline-block"/>
 </div> 
 
-## Rapidfire
-- 🔭 I’m currently working on [gpt.el](https://github.com/NewDawn0/gpt.el) and [argparse.rs](https://github.com/NewDawn0/argparse.rs)  
-- 🌱 I'm currently learning Haskell and Solity
-- 🎓 Currently in Highschool
-- 📚 Reading "Operating Systems from 0 to 1"
-- 👍 Helping Friends and Family as "Tech Support"
-- ✨ Fun fact: I prefer tabs over spaces
-- ❓ If you have any questions or would like to chat, contact me on [Discord](https://discordapp.com/users/820033152827129926/)
+## Quick Overview
+- 🔭 Currently working on various projects.
+- 🌱 Improving my Go and Nix skills.
+- 🎓 Currently in High School.
+- 📚 Reading "Operating Systems from 0 to 1".
+- 👍 Assisting friends and family as "Tech Support".
+- ✨ Fun fact: I prefer tabs over spaces.
 
 ## About Me
 <details>
-<summary>Tom aka NewDanw0, a computer science enthusiast with a passion for coding and technology...</summary>
-My name is Tom, but you might know me better by my online name, NewDanw0. I'm an 18-year-old high-school student with a passion for computer science. I have a wide range of interests, including coding, spending time with friends, playing Minecraft, listening to music, and playing badminton.
+<summary>About NewDawn0 (Tom), a Computer Science Enthusiast...</summary>
+My name is Tom, but you might know me better by my online name, NewDawn0. I'm a student with a passion for computer science. I have a wide range of interests, including coding, spending time with friends, playing Minecraft, and listening to music.
 
-My coding journey started about three years ago, when I first learned Python. Since then, I've been expanding my skills and currently using Rust for my side projects. I'm a firm believer in using a Unix system for coding as any sane person would, and have set up a well-configured workstation on both Linux and Mac.
+My coding journey started about three years ago when I first learned Python. Since then, I've been expanding my skills and currently using Rust for my side projects. I'm a firm believer in using a Unix system for coding and have set up well-configured workstations on both Linux and Mac an well as WSL.
 
-When it comes to text editors, I'm a big fan of both Emacs and NeoVim/Vim. Currently, my favorite is Emacs, which I've set up for coding, note-taking, and writing. It's a versatile tool that allows me to work efficiently and happily.
+When it comes to editors, I'm a big fan of both Emacs and NVim. Currently, my favorite is NVim, which I've set up for coding, note-taking, and writing. It's a versatile tool that allows me to work efficiently and happily.
 
 So there you have it! I'm a young, ambitious coder with a passion for technology and a thirst for knowledge. Let's see where this journey takes us! 💻🚀
 </details>
 
-## Contact Me
-
 ## Languages & Tools
-<div>
-<img alt="Python" src="https://img.shields.io/badge/python-ffd342?style=for-the-badge&logo=Python&logoColor=black" style="border-radius: 25px" />
-<img alt="JS" src="https://img.shields.io/badge/JavaScript-ffd342?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 25px" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-f7c156?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 25px" />
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" style="border-radius: 25px" />
-<img alt="Alacritty" src="https://img.shields.io/badge/alacritty-orange?style=for-the-badge&logo=alacritty&logoColor=white" style="border-radius: 25px" />
-<img alt="git" src="https://img.shields.io/badge/Git-f05033?&style=for-the-badge&logo=git&logoColor=white" style="border-radius: 25px" />
-<img alt="Firefox" src="https://img.shields.io/badge/Firefox-fc4854?style=for-the-badge&logo=Firefox-Browser&logoColor=white" style="border-radius: 25px" />
-<img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="border-radius: 25px" />
-<img alt="Starship" src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" style="border-radius: 25px" />
-<img alt="Raspberry PI" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" style="border-radius: 25px" />
-<img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" style="border-radius: 25px" />
-<img alt="Lua" src="https://img.shields.io/badge/lua-000081?style=for-the-badge&logo=lua&logoColor=white" style="border-radius: 25px" />
-<img alt="C" src="https://img.shields.io/badge/C-003991?&logo=C&style=for-the-badge&logoColor=white" style="border-radius: 25px" />
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?&logo=c%2b%2b&style=for-the-badge" style="border-radius: 25px" />
-<img alt="Css" src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 25px" />
-<img alt="Safari" src="https://img.shields.io/badge/Safari-2892d8?style=for-the-badge&logo=Safari&logoColor=white" style="border-radius: 25px" />
-<img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-1287d2?&style=for-the-badge&logo=neovim&logoColor=white" style="border-radius: 25px" />
-<img alt="Arch linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="border-radius: 25px" />
-<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="border-radius: 25px" />
-<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" style="border-radius: 25px" />
-<img alt="Vim" src="https://img.shields.io/badge/-Vim-019833?&logo=Vim&style=for-the-badge" style="border-radius: 25px" />
-<img alt="Node JS" src="https://img.shields.io/badge/Node.js-019833?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius: 25px" />
-<img alt="iTerm" src="https://img.shields.io/badge/iTerm2-202b2d?style=for-the-badge&logo=iterm2&logoColor=white" style="border-radius: 25px" />
-<img alt="Zsh" src="https://img.shields.io/badge/zsh-1f1f1f?&logo=zsh&style=for-the-badge" style="border-radius: 25px" />
-<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" style="border-radius: 25px" />
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="border-radius: 25px" />
-<img alt="Github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" style="border-radius: 25px" />
-<img alt="Mac Os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="border-radius: 25px" />
-<img alt="Bash" src="https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" style="border-radius: 25px" />
-<img alt="IntelliJ-Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" style="border-radius: 25px" />
-</div>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#)
+[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Latex](https://img.shields.io/badge/Latex-19939a?logo=latex&logoColor=white)](#)
+[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Zsh](https://img.shields.io/badge/Zsh-0b0f10?logo=zsh&logoColor=fff)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Arduino](https://img.shields.io/badge/Arduino-19939a?logo=arduino&logoColor=fff)](#)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#)
+[![Safari](https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
+[![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?e&logo=raspberry%20pi&logoColor=white)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
-## Github stats
+## GitHub Statistics
+
 <img src="https://github-readme-stats.vercel.app/api?username=NewDawn0&show_icons=true&count_private=true&hide_border=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewDawn0&hide_border=true&layout=compact&theme=tokyonight">
 
+## Connect with me or sponsor me
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@git.NewDawn0)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/newdawn0)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/820033152827129926/)
 
-## Miscelaneous Infos
+## Miscellaneous Infos
 <details>
-<summary>My workstations 💻</summary>
+<summary>My Workstations 💻</summary>
 
 ```bash
-OS: macOs # It's an alright os
-WM: yabai # When you want a tiling wm on macOs
-Terminal: iTerm2 # Glad I switched from the Termial.app
-Editor: Doom emacs # The best
-Shell: zsh # 10/10
-Storage: 1Tb # Way too much
-CPU: Intel i7 # I prefer AMD but it's still alright 
-GPU: Intel Iris Plus
-```
-```bash
-OS: Arch Linux # Absolutely superb
-WM: chadwm # beatified dwm
-Terminal: Alacritty # Enjoing the GPU accelation 
-Editor: Neovim # Its elite
-Shell: zsh # No. 1 Shell
-Storage: 4.7 Tb # Definitely don't need that much space
-CPU: AMD Ryzen 5900
-GPU: GeForce RTX 3600
-
+OS: macOS 14.4 23E214 x86_64
+Host: MacBookPro16,2
+Kernel: 23.4.0
+Uptime: 7 days, 12 hours, 53 mins
+Packages: 32 (brew), 784 (nix-system), 313 (nix-user)
+Shell: zsh 5.9
+Resolution: 2560x1600
+WM: Amethyst
+Terminal: alacritty
+CPU: Intel i7-1068NG7 (8) @ 2.30GHz
+GPU: Intel Iris Plus Graphics
+Memory: 15720MiB / 32768MiB
 ```
 </details>
-
 <details>
-<summary>Interrested in the music I groove to?</summary>
+<summary>Interested in the Music I Listen To?</summary>
 Stay tuned to the music vibes I'm currently grooving to</br>
 <img alt="spotify-github-profile" onClick="window.location.reload()" src="https://spotify-github-profile.vercel.app/api/view?uid=tosu-ch&cover_image=true&theme=default&show_offline=false&background_color=121212"></img>
 </details>
-
-
-<img alt="Visitor Count" src="https://profile-counter.glitch.me/NewDawn0/count.svg">

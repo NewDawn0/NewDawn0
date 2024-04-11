@@ -80,8 +80,8 @@ So there you have it! I'm a young, ambitious coder with a passion for technology
 OS: macOS 14.4 23E214 x86_64
 Host: MacBookPro16,2
 Kernel: 23.4.0
-Uptime: 7 days, 12 hours, 53 mins
-Packages: 32 (brew), 784 (nix-system), 313 (nix-user)
+Uptime: 22 days, 21 hours, 52 mins
+Packages: 17 (brew), 156 (nix-system), 733 (nix-user)
 Shell: zsh 5.9
 Resolution: 2560x1600
 WM: Amethyst

@@ -13,13 +13,14 @@
 ## About Me
 <details>
 <summary>About NewDawn0 (Tom), a Computer Science Enthusiast...</summary>
-My name is Tom, but you might know me better by my online name, NewDawn0. I'm a student with a passion for computer science. I have a wide range of interests, including coding, spending time with friends, playing Minecraft, and listening to music.
+My name is Tom, though online, I go by NewDawn0. As a student, I harbor a deep passion for computer science, reflected in my diverse interests, including coding, socializing, gaming (particularly Minecraft and Finals), and indulging in music.
 
-My coding journey started about three years ago when I first learned Python. Since then, I've been expanding my skills and currently using Rust for my side projects. I'm a firm believer in using a Unix system for coding and have set up well-configured workstations on both Linux and Mac an well as WSL.
+My coding expedition began approximately three years ago with Python as my initial endevour. Since then, I've consistently broadened my horizons, currently delving into Rust for my secondary ventures. My unwavering advocacy for Unix systems in coding manifests through my meticulously configured workstations spanning Linux, Mac, (and WSL), all of which are configured using Nix.
 
-When it comes to editors, I'm a big fan of both Emacs and NVim. Currently, my favorite is NVim, which I've set up for coding, note-taking, and writing. It's a versatile tool that allows me to work efficiently and happily.
+In the realm of editors, both Emacs and NeoVim earn my admiration, though the latter currently occupies my attention. Configured adeptly for coding, note-taking, and writing, NeoVim enhances my productivity and overall satisfaction.
 
-So there you have it! I'm a young, ambitious coder with a passion for technology and a thirst for knowledge. Let's see where this journey takes us! 💻🚀
+Thus, I present myself: a youthful, ambitious coder, guided by a deep affection for technology and an insatiable thirst for enlightenment. Let's embark on this journey together! 💻🚀
+
 </details>
 
 ## Languages & Tools

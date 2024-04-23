@@ -13,11 +13,11 @@
 ## About Me
 <details>
 <summary>About NewDawn0 (Tom), a Computer Science Enthusiast...</summary>
-My name is Tom, though online, I go by NewDawn0. As a student, I harbor a deep passion for computer science, reflected in my diverse interests, including coding, socializing, gaming (particularly Minecraft and Finals), and indulging in music.
+My name is Tom, though online, I go by NewDawn0. As a student, I harbour a deep passion for computer science, reflected in my diverse interests, including coding, socializing, gaming (particularly Minecraft and Finals), and indulging in music.
 
-My coding expedition began approximately three years ago with Python as my initial endevour. Since then, I've consistently broadened my horizons, currently delving into Rust for my secondary ventures. My unwavering advocacy for Unix systems in coding manifests through my meticulously configured workstations spanning Linux, Mac, (and WSL), all of which are configured using Nix.
+My coding expedition began approximately three years ago with Python as my initial endeavour. Since then, I've consistently broadened my horizons, currently delving into Rust for my secondary ventures. My unwavering advocacy for Unix systems in coding manifests through my meticulously configured workstations spanning Linux, Mac, (and WSL), all of which are set up using Nix.
 
-In the realm of editors, both Emacs and NeoVim earn my admiration, though the latter currently occupies my attention. Configured adeptly for coding, note-taking, and writing, NeoVim enhances my productivity and overall satisfaction.
+In the realm of editors, both Emacs and NeoVim earn my admiration, though the latter currently occupies my attention. Structured adeptly for coding, note-taking, and writing, NeoVim enhances my productivity and overall satisfaction.
 
 Thus, I present myself: a youthful, ambitious coder, guided by a deep affection for technology and an insatiable thirst for enlightenment. Let's embark on this journey together! 💻🚀
 

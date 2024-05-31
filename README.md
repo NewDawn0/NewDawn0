@@ -4,7 +4,7 @@
 
 ## Quick Overview
 - 🔭 Currently working on various projects.
-- 🌱 Improving my Go and Nix skills.
+- 🌱 Improving my Zig and Gleam skills.
 - 🎓 Currently in High School.
 - 📚 Reading "Operating Systems from 0 to 1".
 - 👍 Assisting friends and family as "Tech Support".
@@ -65,8 +65,13 @@ Thus, I present myself: a youthful, ambitious coder, guided by a deep affection 
 
 ## GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=NewDawn0&show_icons=true&count_private=true&hide_border=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewDawn0&hide_border=true&layout=compact&theme=tokyonight">
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NewDawn0&theme=ayu_mirage" style="width: 50%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NewDawn0&theme=ayu_mirage" style="width: 50%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NewDawn0&theme=ayu_mirage" style="width: 50%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NewDawn0&theme=ayu_mirage" style="width: 50%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewDawn0&theme=ayu_mirage" style="width: 100%;" />
+</div>
 
 ## Connect with me or sponsor me
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@git.NewDawn0)

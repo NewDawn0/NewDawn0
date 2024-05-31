@@ -65,13 +65,19 @@ Thus, I present myself: a youthful, ambitious coder, guided by a deep affection 
 
 ## GitHub Statistics
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NewDawn0&theme=ayu_mirage" style="width: 50%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NewDawn0&theme=ayu_mirage" style="width: 50%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NewDawn0&theme=ayu_mirage" style="width: 50%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NewDawn0&theme=ayu_mirage" style="width: 50%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewDawn0&theme=ayu_mirage" style="width: 100%;" />
-</div>
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
+  </tr>
+</table>
 
 ## Connect with me or sponsor me
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@git.NewDawn0)
